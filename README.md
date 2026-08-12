@@ -1,5 +1,11 @@
 # STM32
 Writing drivers for STM32 GPIO, I2C, SPI, USART
+The aim of this project is the following
+- Develop peripheral drivers for you µC
+- Learn Writing peripheral driver headers, prototyping APIs and implementation
+- Learn Right ways of handling/configuring Interrupts for various peripherals
+- Learn about Configuration/status/Control registers of various Peripherals
+- Explore hidden secretes of MCU bus interfaces, clock sources, MCU clock configurations, etc
 
 ### Table of Contents
 - [Development Board](#Development-Board)
