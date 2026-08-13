@@ -10,6 +10,7 @@ The aim of this project is the following
 ### Table of Contents
 - [Development Board](#Development-Board)
 - [Hardware & Software Requirements](#Hardware-&-Software-Requirements)
+- [Set up Visual Studio Code for STM23 development](#Set-up-Visual-Studio-Code-for-STM23-development)
 - [IDE Installation](#IDE-Installation)
 - [Debugging](#Debugging)
 - [MCU](#MCU)
@@ -20,6 +21,7 @@ The aim of this project is the following
 
 ### Development Board
 ### Hardware & Software Requirements
+#### Set up Visual Studio Code for STM23 development
 ### IDE Installation
 ### License
  
