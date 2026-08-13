@@ -23,6 +23,8 @@ The aim of this project is the following
 ### Hardware & Software Requirements
 #### Set up Visual Studio Code for STM23 development
 https://www.youtube.com/watch?v=i_gcCkjz8OM
+https://www.youtube.com/watch?v=T5MBKtjZDtg
+https://www.youtube.com/watch?v=aWMni01XGeI
 <!-- ### IDE Installation -->
 <!-- ### License -->
  
