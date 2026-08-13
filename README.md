@@ -11,20 +11,20 @@ The aim of this project is the following
 - [Development Board](#Development-Board)
 - [Hardware & Software Requirements](#Hardware-&-Software-Requirements)
 - [Set up Visual Studio Code for STM23 development](#Set-up-Visual-Studio-Code-for-STM23-development)
-// - [IDE Installation](#IDE-Installation)
-// - [Debugging](#Debugging)
-// - [MCU](#MCU)
-// - [MCU Memory Map](#MCU-Memory-Map)
-//- [MCU Bus Interfaces](#MCU-Bus-Interfaces)
-// - [MCU Clock Tree](#MCU Clock Tree)
-// - [MCU Vector Table](#MCU Vector Table)
+<!-- - [IDE Installation](#IDE-Installation) -->
+<!-- - [Debugging](#Debugging) -->
+<!-- - [MCU](#MCU) -->
+<!-- - [MCU Memory Map](#MCU-Memory-Map) -->
+<!-- - [MCU Bus Interfaces](#MCU-Bus-Interfaces) -->
+<!-- - [MCU Clock Tree](#MCU Clock Tree) -->
+<!-- - [MCU Vector Table](#MCU Vector Table) -->
 
 ### Development Board
 ### Hardware & Software Requirements
 #### Set up Visual Studio Code for STM23 development
 https://www.youtube.com/watch?v=i_gcCkjz8OM
-// ### IDE Installation
-//### License
+<!-- ### IDE Installation -->
+<!-- ### License -->
  
 This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.
 
