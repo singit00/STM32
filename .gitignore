@@ -17,5 +17,6 @@
 *.d
 *.s
 *.xml
+*.launch
 
 .\metadata
